@@ -23,7 +23,7 @@ Foram utilizadas as seguintes ferramentas para o desenvolvimento do projeto:
 
 Esse projeto foi elaborado para web e mobile💻📱 </br>
 Para acessar basta clicar no link abaixo:</br>
-https://lucasmmorfim.github.io/Projeto-Finans/
+https://lucasmmorfim.github.io/Projeto-Spotify/
 
 ❗ Usando o Link acima pode ser que apareça bugs no projeto devido a plataforma do GITHUB ❗
 
