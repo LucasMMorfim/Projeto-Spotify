@@ -32,7 +32,7 @@ https://lucasmmorfim.github.io/Projeto-Spotify/
 -Para executar na sua maquina aconselho usar o VS Code e o Live Server
 
 #Baixe o repositório ou clone digitando:
-https://github.com/LucasMMorfim/Projeto-Spotify.git
+git clone https://github.com/LucasMMorfim/Projeto-Spotify.git
 
 #Entre na pasta do projeto e execute o Index.html com o Live Server
 
